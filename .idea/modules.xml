@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/getway/getway.iml" filepath="$PROJECT_DIR$/.idea/modules/getway/getway.iml" group="getway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/getway/getway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/getway/getway_main.iml" group="getway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/getway/getway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/getway/getway_test.iml" group="getway" />
+      <module fileurl="file://$PROJECT_DIR$/spring_learning.iml" filepath="$PROJECT_DIR$/spring_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_learning_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_learning_main.iml" group="spring_learning" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_learning_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_learning_test.iml" group="spring_learning" />
+    </modules>
+  </component>
+</project>
